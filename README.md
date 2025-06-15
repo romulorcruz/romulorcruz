@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**romulorcruz/romulorcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Romulo Cruz, an undergraduate student in Science and Technology at CNPEM, Brazil, expected to graduate in late 2026.  
+I’m passionate about AI Engineering, Machine Learning, Data Science, Neural Networks, and Computational Simulations.  
+My goal: aspiring AI Engineer/ML Engineer with a strong focus on predictive modeling and applied AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+- **Programming:** Python (practical, projects with PyTorch, Pandas, Scikit-Learn), basic C++, Bash, JavaScript, HTML, CSS
+- **AI/ML Frameworks:** PyTorch, Scikit-Learn (✅)
+- **Data Handling:** Pandas, basic Databases
+- **Version Control:** Git (✅), improving Git workflows
+
+---
+
+## 🎲 Fun Facts / Hobbies / Languages
+
+- Chess player
+- Football fan & São Paulo FC supporter
+- Languages: Portuguese (native), English (intermediate)
